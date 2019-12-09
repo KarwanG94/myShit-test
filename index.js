@@ -6,3 +6,4 @@ function myName(){
 }
 
 var myTown = "väjö";
+var bois = "asdja";
